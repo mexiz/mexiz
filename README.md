@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 
 <img aligin="center" alt="mexiz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mexiz&theme=dark&show_icons=true" />
 <a href="https://github.com/mexiz/mqttclient">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mexiz&repo=mqttclient&theme=dark&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mexiz&repo=mqttclient&theme=dark&show_icons=true" />
 </a>
