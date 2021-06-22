@@ -4,6 +4,6 @@
 </p>
 
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  Visitor<br>
+  <img src="https://profile-counter.glitch.me/mexiz/count.svg" />
 </p>
