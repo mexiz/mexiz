@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 -->
 
 <img aligin="center" alt="mexiz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mexiz&theme=dark&show_icons=true" />
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mexiz)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/mexiz/mqttclient">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
