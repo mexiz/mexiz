@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **mexiz/mexiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img aligin="center" alt="mexiz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mexiz&theme=dark&show_icons=true" />
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mexiz)](https://github.com/anuraghazra/github-readme-stats)
